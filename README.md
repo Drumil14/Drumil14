@@ -1,18 +1,26 @@
-## 👋 Hi, I'm Drumil Mistry
+👋 Hi, I'm Drumil Mistry
 
-I'm a Master's student in Electrical and Computer Engineering at Rutgers University with a strong interest in Frontend Development and UI/UX design. I enjoy building user-focused web applications and turning ideas into clean, interactive interfaces.
+Frontend-focused engineer with a strong eye for design, currently pursuing an MS in Electrical and Computer Engineering at Rutgers University.
 
-### 💻 What I work with
-- React
-- JavaScript
-- HTML & CSS
-- UI/UX Design (Figma)
-- API Integration
+I specialize in building clean, scalable React applications with a focus on pixel-perfect UI, reusable component systems, and smooth user interactions. I enjoy translating high-fidelity designs into responsive, accessible interfaces while paying close attention to spacing, typography, and interaction details.
 
-### 🚀 What I'm currently learning
-- Advanced React concepts
-- Frontend architecture
-- Building full-stack web applications
+Lately, I've been working on design system components, improving frontend performance, and building tools that help developers create better UI.
 
-### 🎯 Career Goal
-I’m looking for opportunities where I can combine design thinking with engineering to build intuitive and scalable digital products.
+💻 What I work with
+
+• React, TypeScript, JavaScript (ES6+)  
+• HTML5, CSS3 (Flexbox, Grid, Responsive Design)  
+• Tailwind CSS, Component-Based Architecture  
+• REST APIs, Async Data Handling  
+• Figma (Design Systems, Prototyping)
+
+🚀 What I'm currently learning
+
+• Advanced React patterns and state management  
+• Design systems and scalable component architecture  
+• Frontend performance optimization  
+• Building complex, interactive UI (dashboards, editors)
+
+🎯 Career Goal
+
+I’m aiming to build high-quality frontend experiences where design and engineering meet — focusing on polished UI, performance, and scalable component systems.
