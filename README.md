@@ -23,4 +23,4 @@ Lately, I've been working on design system components, improving frontend perfor
 
 🎯 Career Goal
 
-I’m aiming to build high-quality frontend experiences where design and engineering meet — focusing on polished UI, performance, and scalable component systems.
+I’m aiming to build high-quality frontend experiences where design and engineering meet focusing on polished UI, performance, and scalable component systems.
