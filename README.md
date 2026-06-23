@@ -50,8 +50,8 @@ Next.js · TypeScript · Prisma · PostgreSQL
 Frontend or full-stack engineering roles where I can own meaningful UI, work close to the product, and ship things that matter. Strong preference for teams that value performance, accessibility, and clean code — not just feature velocity.
 
 📫 Let's Connect
-🌐 Portfolio: drumilmistry.netlify.app
+🌐 Portfolio: https://drumilmistry.netlify.app/
 
-💼 LinkedIn: linkedin.com/in/drumilmistry
+💼 LinkedIn: https://www.linkedin.com/in/drumilmistry/
 
 📧 drumilmistry14@gmail.com
