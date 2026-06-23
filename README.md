@@ -1,26 +1,105 @@
-👋 Hi, I'm Drumil Mistry
+# Drumil Mistry
 
-Frontend-focused engineer with a strong eye for design, currently pursuing an MS in Electrical and Computer Engineering at Rutgers University.
+### Full-Stack Engineer | MS ECE @ Rutgers University
 
-I specialize in building clean, scalable React applications with a focus on pixel-perfect UI, reusable component systems, and smooth user interactions. I enjoy translating high-fidelity designs into responsive, accessible interfaces while paying close attention to spacing, typography, and interaction details.
+🟢 Open to Full-Time Software Engineering Roles  
+🛂 F-1 OPT (STEM Eligible)
 
-Lately, I've been working on design system components, improving frontend performance, and building tools that help developers create better UI.
+---
 
-💻 What I work with
+> I build modern web applications with a focus on clean UI, great user experience, and scalable architecture. I enjoy taking products from idea to deployment and working across the frontend, backend, and database layers.
 
-• React, TypeScript, JavaScript (ES6+)  
-• HTML5, CSS3 (Flexbox, Grid, Responsive Design)  
-• Tailwind CSS, Component-Based Architecture  
-• REST APIs, Async Data Handling  
-• Figma (Design Systems, Prototyping)
+---
 
-🚀 What I'm currently learning
+## 🚀 Tech Stack
 
-• Advanced React patterns and state management  
-• Design systems and scalable component architecture  
-• Frontend performance optimization  
-• Building complex, interactive UI (dashboards, editors)
+### Frontend
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML5 / CSS3
 
-🎯 Career Goal
+### Backend
+- Node.js
+- Next.js API Routes
+- Prisma ORM
+- PostgreSQL
+- REST APIs
 
-I’m aiming to build high-quality frontend experiences where design and engineering meet focusing on polished UI, performance, and scalable component systems.
+### Tools
+- Git / GitHub
+- Vercel
+- Figma
+- Postman
+
+---
+
+## 📌 Featured Projects
+
+### Meridian — Performance-Focused E-Commerce Storefront
+
+Built a modern e-commerce platform using Next.js, TypeScript, Prisma, and PostgreSQL.
+
+- Responsive storefront with optimized performance
+- Product catalog, filtering, and cart functionality
+- Server-side rendering and efficient data fetching
+- Clean component-based architecture
+
+**Tech:** Next.js • TypeScript • Prisma • PostgreSQL • Tailwind
+
+---
+
+### ApplyFlow — AI Job Application Tracker
+
+Full-stack application to manage job applications and resumes.
+
+- AI-powered job description analysis
+- Kanban workflow for application tracking
+- Resume version management
+- Analytics dashboard
+
+**Tech:** React • Next.js • PostgreSQL • Prisma • AI APIs
+
+---
+
+### UI Replay — Session Replay & Analytics Tool
+
+Captures and replays user interactions to analyze behavior.
+
+- Click, scroll, and input tracking
+- Timeline-based playback
+- User interaction insights
+- Optimized event collection
+
+**Tech:** React • Next.js • TypeScript
+
+---
+
+## 📚 Currently Learning
+
+- System Design
+- Advanced React Patterns
+- Scalable Backend Architecture
+- AI-Powered Applications
+
+---
+
+## 🎯 Interests
+
+- Full-Stack Engineering
+- Frontend Performance
+- Developer Tools
+- AI Products
+- Startup Engineering
+
+---
+
+## 📫 Connect
+
+🔗 Portfolio: drumilmistry.netlify.app
+
+🔗 LinkedIn: linkedin.com/in/drumilmistry
+
+📧 drumilmistry14@gmail.com
