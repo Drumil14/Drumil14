@@ -1,105 +1,57 @@
-# Drumil Mistry
+Drumil Mistry
 
-### Full-Stack Engineer | MS ECE @ Rutgers University
+Frontend Engineer & Full-Stack Developer | M.S. Computer Engineering @ Rutgers University
 
-🟢 Open to Full-Time Software Engineering Roles  
-🛂 F-1 OPT (STEM Eligible)
+🟢 Open to Full-Time Frontend Engineering Roles · 🛂 F-1 OPT (STEM Eligible)
 
----
+I build fast, accessible, production-grade web apps — from database schema to pixel-perfect UI. My stack is React, Next.js, and TypeScript, with full-stack range across Prisma and PostgreSQL. I care about clean architecture, maintainable code, and shipping things I'd actually want to use.
 
-> I build modern web applications with a focus on clean UI, great user experience, and scalable architecture. I enjoy taking products from idea to deployment and working across the frontend, backend, and database layers.
+🚀 Tech Stack
+⚛️ Frontend — React, Next.js (App Router / RSC), TypeScript, Tailwind CSS, HTML5, CSS3
+🛠️ Backend & Data — Node.js, Express.js, Prisma ORM, PostgreSQL, REST APIs
+🎨 Design — Figma (component libraries, design tokens, developer handoff)
+🔧 Tooling — Git, GitHub, Vercel, Chrome DevTools, Claude Code, Cursor
 
----
+📌 Featured Projects
+🚗 Azimuth — Full-Stack Car Rental Platform
 
-## 🚀 Tech Stack
+Solo-built, end-to-end. From schema design to Vercel deployment.
 
-### Frontend
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- HTML5 / CSS3
+Real-time date-range availability engine and dynamic pricing logic
+Filterable 12-vehicle catalogue with debounced search, multi-facet filters, sorting, and pagination
+Role-based admin console with custom SVG analytics dashboard and full CRUD
+JWT-cookie authentication, mobile-first accessible UI, reduced-motion support
+Reusable Tailwind component library with scroll reveals and animated counters
 
-### Backend
-- Node.js
-- Next.js API Routes
-- Prisma ORM
-- PostgreSQL
-- REST APIs
+Next.js · React · TypeScript · Tailwind CSS · JWT
 
-### Tools
-- Git / GitHub
-- Vercel
-- Figma
-- Postman
+🛍️ Meridian — E-Commerce Storefront
 
----
+Performance-focused storefront built with Next.js App Router and React Server Components.
 
-## 📌 Featured Projects
+Product catalogue, filtering, cart, and responsive accessible UI (WCAG)
+SSR + static generation for SEO and load performance
+Scalable Prisma + PostgreSQL data layer
+CI/CD pipeline with GitHub Actions — type checking, linting, and deployment to Vercel
 
-### Meridian — Performance-Focused E-Commerce Storefront
+Next.js · TypeScript · Prisma · PostgreSQL · Tailwind
 
-Built a modern e-commerce platform using Next.js, TypeScript, Prisma, and PostgreSQL.
+📋 ApplyFlow — Job Application Tracker
 
-- Responsive storefront with optimized performance
-- Product catalog, filtering, and cart functionality
-- Server-side rendering and efficient data fetching
-- Clean component-based architecture
+Full-stack job tracking tool built from schema to deployment.
 
-**Tech:** Next.js • TypeScript • Prisma • PostgreSQL • Tailwind
+Dashboard, Kanban board, and per-application detail views
+Secure auth with session management and protected routes via Next.js App Router
+Rendering performance profiled and optimized with Chrome DevTools post-deployment
 
----
+Next.js · TypeScript · Prisma · PostgreSQL
 
-### ApplyFlow — AI Job Application Tracker
+🎯 What I'm Looking For
+Frontend or full-stack engineering roles where I can own meaningful UI, work close to the product, and ship things that matter. Strong preference for teams that value performance, accessibility, and clean code — not just feature velocity.
 
-Full-stack application to manage job applications and resumes.
+📫 Let's Connect
+🌐 Portfolio: drumilmistry.netlify.app
 
-- AI-powered job description analysis
-- Kanban workflow for application tracking
-- Resume version management
-- Analytics dashboard
-
-**Tech:** React • Next.js • PostgreSQL • Prisma • AI APIs
-
----
-
-### UI Replay — Session Replay & Analytics Tool
-
-Captures and replays user interactions to analyze behavior.
-
-- Click, scroll, and input tracking
-- Timeline-based playback
-- User interaction insights
-- Optimized event collection
-
-**Tech:** React • Next.js • TypeScript
-
----
-
-## 📚 Currently Learning
-
-- System Design
-- Advanced React Patterns
-- Scalable Backend Architecture
-- AI-Powered Applications
-
----
-
-## 🎯 Interests
-
-- Full-Stack Engineering
-- Frontend Performance
-- Developer Tools
-- AI Products
-- Startup Engineering
-
----
-
-## 📫 Connect
-
-🔗 Portfolio: drumilmistry.netlify.app
-
-🔗 LinkedIn: linkedin.com/in/drumilmistry
+💼 LinkedIn: linkedin.com/in/drumilmistry
 
 📧 drumilmistry14@gmail.com
