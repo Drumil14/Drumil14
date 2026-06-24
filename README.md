@@ -8,7 +8,7 @@ I build fast, accessible, production-grade web apps — from database schema to 
 
 🚀 Tech Stack
 ⚛️ Frontend — React, Next.js (App Router / RSC), TypeScript, Tailwind CSS, HTML5, CSS3
-🛠️ Backend & Data — Node.js, Express.js, Prisma ORM, PostgreSQL, REST APIs
+🛠️ Backend & Data — Express.js, Prisma ORM, PostgreSQL, REST APIs
 🎨 Design — Figma (component libraries, design tokens, developer handoff)
 🔧 Tooling — Git, GitHub, Vercel, Chrome DevTools, Claude Code, Cursor
 
