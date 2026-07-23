@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Frontend Engineer passionate about building fast, accessible, and polished web applications. I enjoy turning ideas and Figma designs into production-ready products using React, Next.js, TypeScript, and Tailwind CSS.
+Full-Stack Engineer passionate about building AI-powered, fast, accessible, and polished web applications. I enjoy turning ideas into production-ready products using React, Next.js, TypeScript, Node.js, and Tailwind CSS.
 
 🔭 &nbsp;I'm currently working on **ForgeUI — a Figma-to-React design system generator**  
 🌱 &nbsp;I'm currently learning **Advanced React patterns, system design, and AI-assisted development**  
