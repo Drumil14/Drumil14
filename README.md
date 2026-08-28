@@ -8,16 +8,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=56d4dd&center=true&vCenter=true&width=900&height=44&lines=Building%20fast%2C%20accessible%2C%20pixel-perfect%20web%20experiences.;Building%20production-ready%20React%20interfaces%20and%20design%20systems." alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+## 🚀 About Me
 
-Full-Stack Engineer passionate about building AI-powered, fast, accessible, and polished web applications. I enjoy turning ideas into production-ready products using React, Next.js, TypeScript, Node.js, and Tailwind CSS.
+Frontend / Product Engineer building interfaces where **design, engineering, and AI meet**. I like taking messy ideas from rough concepts → polished, production-ready products with React, Next.js, TypeScript, and Tailwind CSS.
 
-🔭 &nbsp;I'm currently working on **ForgeUI — a Figma-to-React design system generator**  
-🌱 &nbsp;I'm currently learning **Advanced React patterns, system design, and AI-assisted development**  
-👯 &nbsp;I'm looking to collaborate on **Open-source React, Next.js, and developer tooling projects**  
-💬 &nbsp;Ask me about **React, Next.js, TypeScript, Tailwind CSS, Figma, and Accessibility**  
-😄 &nbsp;Pronouns: **he/him**  
-⚡ &nbsp;Fun fact: **I treat AI as my pair programmer and love turning ideas into production-ready products.**
+🪐 Built **Orbit** — an AI workspace that turns scattered team information into focused workflows  
+📊 Built **ApplyFlow** — a full-stack job application platform with AI analysis, analytics, and Kanban workflows   
+🤖 I use **Claude Code + Codex** heavily to prototype, debug, refactor, and ship faster  
+🎨 I care about the details: typography, motion, accessibility, performance, and that suspicious 4px of padding  
+⚡ Give me a rough product idea and I'll probably start building it
 
 ### 🛠️ Tech Stack
 
