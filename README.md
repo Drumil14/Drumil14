@@ -26,28 +26,35 @@
 
 Frontend Engineer focused on building polished, accessible, and performant interfaces with **React, TypeScript, and Next.js**.
 
-I enjoy working across component architecture, design systems, state management, responsive interfaces, accessibility, performance, and frontend product engineering.
+I work across component architecture, design systems, state management, responsive UI, accessibility, and frontend performance.
 
 M.S. in **Electrical & Computer Engineering** from **Rutgers University**.
 
 ---
 
-## Tech Stack
+## Skills
 
-**Languages**  
-TypeScript · JavaScript (ES6+) · HTML5 · CSS3 · SQL
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,tailwind" />
+</p>
 
-**Frontend**  
-React · Next.js · React Native · Expo · Tailwind CSS · TanStack Query · Framer Motion · Zustand
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,supabase" />
+</p>
 
-**Backend & Data**  
-Node.js · REST APIs · PostgreSQL · Prisma · Supabase · NextAuth · Supabase Edge Functions · Upstash Redis
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=jest,vitest,figma,git,github,vercel" />
+</p>
 
-**Testing & UI**  
-Jest · Vitest · React Testing Library · Storybook · Design Systems · WCAG/ARIA · Figma · Core Web Vitals
-
-**Tools**  
-Git · GitHub · Vercel · GitHub Actions · CI/CD
+<p align="left">
+  <img src="https://cdn.simpleicons.org/expo/FFFFFF" width="48" height="48" alt="Expo" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="48" height="48" alt="TanStack Query" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/framer/FFFFFF" width="48" height="48" alt="Framer Motion" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/storybook/FF4785" width="48" height="48" alt="Storybook" />
+</p>
 
 ---
 
